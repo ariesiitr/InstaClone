@@ -19,7 +19,7 @@ Step 2: Install Dependencies
   npm install
 ```
 
-Step 4: Start the Backend and Frontend
+Step 3: Start the Backend and Frontend
 
 I. Open terminal
 ```bash
